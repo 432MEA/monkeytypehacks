@@ -2,6 +2,8 @@
 
 This is a python script to simulate keyboard key presses using pyautogui.  
 This script is designed for use on the website monkeytype.com  
+
+The zip file was too large for github, so I uploaded it here: https://www.dropbox.com/s/5ruu1mjrk3mn260/Monkeytypehacks.zip?dl=0. 
   
 Requirements:
 
