@@ -23,7 +23,7 @@ Requirements:
 
 * Go to https://chromedriver.chromium.org/downloads. 
 
-* Click download on the version that your google chrome browser is on. To know your version: Open google chrome. Click on the three dots in the corner. Click on help, then about Google Chrome. It should say what version your browser is on. 
+* Click on the version that your google chrome browser is on. To know your version: Open google chrome. Click on the three dots in the corner. Click on help, then about Google Chrome. It should say what version your browser is on. 
 
 * Download the file for your operating system. 
 
