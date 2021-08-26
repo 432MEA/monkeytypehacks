@@ -1,5 +1,4 @@
-# Python-autotyper-script
-**You can not use this on Replit. You have to copy the code to a file and run in on your own computer because the driver has to be in the PATH variable and you can not do that in Replit.**
+# Monkeytypehacks
 
 This is a python script to simulate keyboard key presses using pyautogui.  
 This script is designed for use on the website monkeytype.com  
@@ -27,6 +26,10 @@ Requirements:
 * Unzip the downloaded file to somewhere you will remember. 
 
 # How to use  
+
+* Download the files and unzip Monkeytypehacks. 
+
+* Run Hacks.exe and follow the instructions. 
 
 Right now this script supports the following typing modes on MonkeyType:
 
