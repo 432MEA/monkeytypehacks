@@ -7,7 +7,9 @@ The zip file was too large for github, so I uploaded it here: https://www.dropbo
   
 Requirements:
 
-* Google Chrome and chromedriver
+* Google Chrome browser
+
+* Chromedriver
 
 # Installing Chrome Browser
 
